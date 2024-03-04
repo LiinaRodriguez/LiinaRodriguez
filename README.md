@@ -1,6 +1,5 @@
-### Hi there 👋
-
-- ☕ I’m currently learning **Spring Boot** 
+<h1>Hi 👋, I'm Lina Rodriguez</h1>
+- 🌱 I’m currently learning **Spring Boot**
 <!--
 **LiinaRodriguez/liinarodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
