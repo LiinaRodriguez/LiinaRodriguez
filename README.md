@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Lina ‧₊˚ 🍮 ⋅ ☆</h2>
+<h2 align="center">Hi, I'm Lina ₊˚ 🍮 ⋅ ☆</h2>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=liinarodriguez&color=blueviolet"/>
 </p>
