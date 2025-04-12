@@ -1,6 +1,6 @@
-<h2 align="center">Hi, I'm Lina ₊˚ 🍮 ⋅ ☆</h2>
+<h5 style="font-family: 'Courier New', Courier, monospace" align="center">Hi, I'm Lina ₊˚ 🍮 ⋅ ☆</h5>
 
-<p><a href="https://liinarodriguez.github.io/" target="_blank">Portafolio</a></p>
+[`Portafolio`](https://liinarodriguez.github.io/)
 
 <hr>
 <p align="center">
