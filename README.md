@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Lina ₊˚ 🍮 ⋅ ☆</h2>
 
-<p><a href="https://www.https://liinarodriguez.github.io/" target="_blank">Portafolio</a></p>
+<p><a href="https://liinarodriguez.github.io/" target="_blank">Portafolio</a></p>
 
 <hr>
 <p align="center">
