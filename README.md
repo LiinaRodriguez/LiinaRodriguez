@@ -1,6 +1,6 @@
 <h5 style="font-family: 'Courier New', Courier, monospace" align="center">Hi, I'm Lina ₊˚ 🍮 ⋅ ☆</h5>
 
-[`💼 Portafolio`](https://liinarodriguez.github.io/)
+Visit my [`💼 Portafolio`](https://liinarodriguez.github.io/)
 
 <hr>
 <p align="center">
