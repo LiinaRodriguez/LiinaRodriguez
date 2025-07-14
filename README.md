@@ -35,6 +35,7 @@ Systems Engineering Student · Passionate about Clean and Useful Software
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </div>
+
 ---
 
 ## 🍮 What I’ve Done
