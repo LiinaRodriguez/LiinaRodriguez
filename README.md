@@ -55,7 +55,7 @@ Systems Engineering Student · Passionate about Clean and Useful Software
 
 ---
 
-## 📫 Contact / Contacto
+## 📫 Contact 
 
 <p align="center">
   <a href="https://linkedin.com/in/liinarodriguez">
