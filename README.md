@@ -41,7 +41,7 @@ Systems Engineering Student · Passionate about Clean and Useful Software
 ## 🍮 What I’ve Done
 
 - ✅ Completed a **web development internship**, where I contributed to bug fixing, UI redesign, and static code analysis using **SonarQube**.
-- 🌱 Collaborating with a **local agri-tech startup** to develop **Agrolog**, a web application for managing crop production, inventory, and daily monitoring, using **NEXTJS** and **NET**.
+- 🌱 Collaborating with a **local agri-tech startup** to develop **Agrolog**, a web application for managing crop production, inventory, and daily monitoring, using **NEXTJS**.
 
 
 
