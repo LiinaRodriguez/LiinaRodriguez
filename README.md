@@ -1,7 +1,7 @@
 <h1 align="center">👩‍💻 Lina Rodríguez</h1>
 
 <p align="center">
-Systems Engineering Student · Passionate about Clean and Useful Software
+  Systems Engineer · Focused on scalable and maintainable solutions
 </p>
 
 ---
